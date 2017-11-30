@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPCore Episode 0", "ASPCore Episode 0\ASPCore Episode 0.csproj", "{9EAEF1D2-F84B-402F-BD1F-3CD8369C8BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectionApps", "ElectionApps\ElectionApps.csproj", "{4E0B5F44-96E4-4C52-8B4E-8DEF9EDFC6F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectionApps", "ElectionApps\ElectionApps.csproj", "{4E0B5F44-96E4-4C52-8B4E-8DEF9EDFC6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfMigratinoTest", "EfMigratinoTest\EfMigratinoTest.csproj", "{794AEE6B-6B43-4DF1-BD42-5E73DD4F7539}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E0B5F44-96E4-4C52-8B4E-8DEF9EDFC6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0B5F44-96E4-4C52-8B4E-8DEF9EDFC6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0B5F44-96E4-4C52-8B4E-8DEF9EDFC6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794AEE6B-6B43-4DF1-BD42-5E73DD4F7539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794AEE6B-6B43-4DF1-BD42-5E73DD4F7539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794AEE6B-6B43-4DF1-BD42-5E73DD4F7539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794AEE6B-6B43-4DF1-BD42-5E73DD4F7539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
